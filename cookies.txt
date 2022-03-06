@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cyberconsult.sa	TRUE	/	FALSE	1999999999	PHPSESSID	dd26d1c8ccbde065c44693b76d44712f
+
